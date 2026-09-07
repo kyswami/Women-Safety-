@@ -6,7 +6,7 @@ emergency contact via a GSM module. GPS coordinates and system status are
 shown on a 16x2 I2C LCD. The buzzer can be silenced remotely by texting
 `STOP` to the device's SIM.
 
-## Features
+## Features...
 
 - One-button emergency trigger
 - Live GPS location parsed from NMEA `$GPGGA` sentences
